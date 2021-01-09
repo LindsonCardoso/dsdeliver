@@ -33,13 +33,13 @@ public class Product  implements Serializable {
 	}
 
 
-	public Product(Long id, String name, Double price, String description, String imgeUri) {
+	public Product(Long id, String name, Double price, String description, String imageUri) {
 		super();
 		this.id = id;
 		this.name = name;
 		this.price = price;
 		this.description = description;
-		this.imageUri = imgeUri;
+		this.imageUri = imageUri;
 	}
 
 
@@ -83,13 +83,13 @@ public class Product  implements Serializable {
 	}
 
 
-	public String getImgeUri() {
+	public String getImageUri() {
 		return imageUri;
 	}
 
 
-	public void setImgeUri(String imgeUri) {
-		this.imageUri = imgeUri;
+	public void setImageUri(String imageUri) {
+		this.imageUri = imageUri;
 	}
 
 
