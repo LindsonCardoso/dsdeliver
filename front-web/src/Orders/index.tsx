@@ -79,7 +79,8 @@ function Orders() {
             onSubmit={handleSubmit}
             />
           
-        </div>  <Footer/>
+        </div>  
+        <Footer/>
         </>
        
 

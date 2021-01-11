@@ -13,7 +13,7 @@ function Footer(){
                 <a href="linkedin.com/in/lindson-cardoso-739334169" target="_new">
                     <LinkedinIcon/>
                 </a>
-                <a href="" target="_new">
+                <a target="_new">
                 <InstagramIcon/>
                 </a>
 
